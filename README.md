@@ -1,5 +1,5 @@
-# Pronto Press
-> Pronto WordPress for WordPress Plugin Development
+# Docker Press
+> Docker WordPress for WordPress Plugin Development
 
 This is Wordpress docker for developer to be able to test Wordpress plugin. 
 
@@ -32,7 +32,7 @@ Pronto Tools – [@prontotools](https://twitter.com/prontotools) – prontotools
 
 ## Contributing
 
-1. Fork it (<https://github.com/prontotools/pronto-press/fork>)
+1. Fork it (<https://github.com/prontotools/docker-press/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
